@@ -1,0 +1,90 @@
+{
+      "id": 1,
+      "jobtitle": "Software Engineer",
+      "jobdescription": "Develops software solutions by studying information needs, conferring with users, and studying systems flow, data usage, and work processes.",
+      "experience": 3,
+      "minSalary": "60000",
+      "maxSalary": "90000",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 2,
+      "jobtitle": "Data Analyst",
+      "jobdescription": "Analyzes data to provide insights that drive decision making. Develops and maintains analytical tools and models.",
+      "experience": 2,
+      "minSalary": "50000",
+      "maxSalary": "75000",
+      "location": "New York, NY"
+    },
+    {
+      "id": 3,
+      "jobtitle": "Marketing Specialist",
+      "jobdescription": "Plans and executes marketing campaigns, analyzes market trends, and identifies target audiences.",
+      "experience": 5,
+      "minSalary": "70000",
+      "maxSalary": "100000",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 4,
+      "jobtitle": "Graphic Designer",
+      "jobdescription": "Creates visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers.",
+      "experience": 3,
+      "minSalary": "55000",
+      "maxSalary": "80000",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": 5,
+      "jobtitle": "Accountant",
+      "jobdescription": "Prepares asset, liability, and capital account entries by compiling and analyzing account information.",
+      "experience": 4,
+      "minSalary": "65000",
+      "maxSalary": "95000",
+      "location": "Houston, TX"
+    },
+    {
+      "id": 6,
+      "jobtitle": "Human Resources Manager",
+      "jobdescription": "Oversees the hiring, training, and management of employees, ensuring compliance with laws and regulations.",
+      "experience": 6,
+      "minSalary": "80000",
+      "maxSalary": "120000",
+      "location": "Atlanta, GA"
+    },
+    {
+      "id": 7,
+      "jobtitle": "Sales Representative",
+      "jobdescription": "Sells products and services by establishing contact and developing relationships with prospects, recommending solutions.",
+      "experience": 2,
+      "minSalary": "50000",
+      "maxSalary": "75000",
+      "location": "Dallas, TX"
+    },
+    {
+      "id": 8,
+      "jobtitle": "Operations Manager",
+      "jobdescription": "Directs and coordinates the internal structure of an organization, ensuring smooth operations.",
+      "experience": 7,
+      "minSalary": "90000",
+      "maxSalary": "130000",
+      "location": "Miami, FL"
+    },
+    {
+      "id": 9,
+      "jobtitle": "Customer Service Representative",
+      "jobdescription": "Handles customer inquiries, complaints, billing issues, and product/service questions via phone, email, or chat.",
+      "experience": 1,
+      "minSalary": "40000",
+      "maxSalary": "60000",
+      "location": "Seattle, WA"
+    },
+    {
+      "id": 10,
+      "jobtitle": "Web Developer",
+      "jobdescription": "Designs and develops websites and web applications using programming languages and web technologies.",
+      "experience": 4,
+      "minSalary": "70000",
+      "maxSalary": "100000",
+      "location": "Boston, MA"
+    }

@@ -25,6 +25,13 @@ const Home = () => {
             </Link>
             </Button>
           </li>
+          <li>
+          <Button sx={{ margin:"2% 3%"}} variant="outlined">
+            <Link to="/employee/company">
+              Company
+            </Link>
+            </Button>
+          </li>
         </ul>
       </div>
     </div>

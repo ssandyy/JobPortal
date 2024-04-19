@@ -14,7 +14,7 @@ public class Review {
     private String description;
     private double rating;
 
-    @JsonIgnore
+//    @JsonIgnore
     @ManyToOne
     private Company company;
 

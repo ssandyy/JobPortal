@@ -15,11 +15,11 @@ public class Company   {
     private String name;
     private String description;
 
-    @JsonIgnore
+//    @JsonIgnore
     @OneToMany(mappedBy = "company")
     private List<Job> jobs;
 
-    @JsonIgnore
+//    @JsonIgnore
     @OneToMany(mappedBy = "company")
     private List<Review> reviews;
 

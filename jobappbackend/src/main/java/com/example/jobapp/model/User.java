@@ -24,11 +24,8 @@ public class User implements UserDetails {
     @Column (length = 5000)
     private String address;
 
-    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
-    private List<UserRole> roleList;
-
-    @Enumerated(value = EnumType.STRING)
-    Role role;
+    @OneToMany(cascade = CascadeType.ALL, mappedBy = "user", fetch = FetchType.EAGER)
+    private List<UserRole> userRoles;
 
     @Lob
     @Column(columnDefinition = "Longblob")

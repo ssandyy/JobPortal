@@ -20,7 +20,7 @@ public class UserService {
 
 
     public void assignRolesToUser(User user, List<UserRole> roles) {
-        user.setRoleList(roles);
+        user.setUserRoles(roles);
         userRepository.save(user);
     }
         private final UserRepository userRepository;
@@ -60,7 +60,7 @@ public class UserService {
                 existingUser.setEmail(user.getEmail());
                 existingUser.setPassword(user.getPassword());
                 existingUser.setPhone(user.getPhone());
-                existingUser.setRoleList(user.getRoleList());
+                existingUser.setUserRoles(user.getUserRoles());
                 return existingUser;
             }else{
                 return null;
